@@ -1,4 +1,6 @@
----
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ManassesCahunda)
+
+-
 # 💫 Sobre Mim
 
 Sou **Desenvolvedor Full Stack** com mais de 3 anos de experiência em **Node.js (MVC)**. Tenho expertise em **sistemas de e-mail com TSX**, **manipulação de PDFs em memória com filas e streams para alta performance**, além de atuar em **DevOps** com **microserviços** em VPSs, utilizando **Kubernetes**, **Docker** e **Git**.
