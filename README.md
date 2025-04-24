@@ -1,4 +1,4 @@
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ManassesCahunda)
+[![X](https://github.com/manassesCahunda/profile/blob/main/banner.png)]
 
 -
 # 💫 Sobre Mim
