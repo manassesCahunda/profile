@@ -93,8 +93,8 @@ Sou **Desenvolvedor Full Stack** com mais de 3 anos de experiência em **Node.js
 ---
 
 ### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+![](https://github.com/manassesCahunda/profile/blob/main/frase.png)
+https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical
 ---
 
 ### 🔝 Repositórios em Destaque
